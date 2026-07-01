@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-EDITED
+EDITE
 <html lang="en">
 </head>
 <meta charset="UTF-8">
