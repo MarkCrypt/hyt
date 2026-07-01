@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Dabz Global — Promo 4K</title>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;600;700&display=swap" rel="stylesheet">
-<style>
+</style>
 *{margin:0;padding:0;box-sizing:border-box}
 :root{
   --gold:#FFD700;--gold2:#FFA500;--neon:#00FFFF;--neon2:#00FF99;
@@ -15,7 +15,7 @@
 html,body{width:100%;height:100%;overflow:hidden;background:var(--bg);font-family:'Rajdhani',sans-serif;color:var(--white)}
 canvas#bg{position:fixed;inset:0;z-index:0}
 
-/* SCENE SYSTEM */
+/* SCene SYSTEM */
 .scene{position:fixed;inset:0;z-index:10;display:flex;flex-direction:column;align-items:center;justify-content:center;
 opacity:0;transform:translateY(60px);transition:opacity 0.7s ease,transform 0.7s ease;pointer-events:none}
 .scene.active{opacity:1;transform:translateY(0);pointer-events:all}
